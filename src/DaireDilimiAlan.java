@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class DaireDilimiAlan {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double pi = 3.14, r, alfa, area;
         System.out.print("yaricapi giriniz:");
